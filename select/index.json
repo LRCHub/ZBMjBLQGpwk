@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Wishing you",
+  "base_artist": "Nornis",
+  "createdAt": "2025-12-13T11:20:26.898051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wishing You Were Somehow Here Again",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/01_Wishing_You_Were_Somehow_Here_Again_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wishing You Were Here",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/02_Wishing_You_Were_Here_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wishing You Were Here",
+      "artist": "Black",
+      "has_synced": true,
+      "path": "select/03_Wishing_You_Were_Here_Black.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wishing You Were Here - Live",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/04_Wishing_You_Were_Here_-_Live_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wishing You Were Here",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/05_Wishing_You_Were_Here_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wishing You Were Here",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/06_Wishing_You_Were_Here_Chicago.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wishing you",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_Wishing_you_Nornis.txt"
+    }
+  ]
+}
